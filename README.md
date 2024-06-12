@@ -2,11 +2,11 @@
 
 tu trabajo sera en la elaboracion del formulario por parte del usuario
 ## Requerimentos a considerar 
-### 1.- Validacion en todos su campos 
-
-### 2.- el formulario tiene que tener la sigiente informacion
+- 1.- Validacion en todos su campos 
+- 2.- el formulario tiene que tener la sigiente informacion
 
 Formulario de Solicitud de Terreno
+
 Datos Personales del Solicitante
 Nombre Completo:
 
