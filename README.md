@@ -5,55 +5,55 @@ tu trabajo sera en la elaboracion del formulario por parte del usuario
 - 1.- Validacion en todos su campos 
 - 2.- el formulario tiene que tener la sigiente informacion
 
-###Formulario de Solicitud de Terreno <br>
+### Formulario de Solicitud de Terreno <br>
 
-###Datos Personales del Solicitante
+### Datos Personales del Solicitante
 - Nombre Completo:___________________________
 - Primer Nombre: ___________________________
 - Segundo Nombre: ___________________________
 - Apellido Paterno: ___________________________
 - Apellido Materno: ___________________________
-###Fecha de Nacimiento:
+### Fecha de Nacimiento:
 - Día: ______
 - Mes: ______
 - Año: ______
 
-###Número de Identificación (DNI, Pasaporte, etc.):
+### Número de Identificación (DNI, Pasaporte, etc.):
 - Número: ___________________________
 - Tipo de Documento: ___________________________
 
-###Nacionalidad:
+### Nacionalidad:
 - País: ___________________________
 
-###Estado Civil:
+### Estado Civil:
 - Soltero(a) ☐
 - Casado(a) ☐
 - Divorciado(a) ☐
 - Viudo(a) ☐
 - Unión Libre ☐
 
-###Dirección de Residencia:
+### Dirección de Residencia:
 - Calle y Número: ___________________________
 - Colonia/Barrio: ___________________________
 - Ciudad: ___________________________
 - Estado/Provincia: ___________________________
 - Código Postal: ___________________________
 
-###Teléfono de Contacto:
+### Teléfono de Contacto:
 - Teléfono Fijo: ___________________________
 - Teléfono Móvil: ___________________________
-###Correo Electrónico:  
+### Correo Electrónico:  
 - Dirección de Correo: ___________________________
 - Datos del Terreno Solicitado
-###Ubicación del Terreno:
+### Ubicación del Terreno:
 - Calle y Número: ___________________________
 - Colonia/Barrio: ___________________________
 - Ciudad: ___________________________
 - Estado/Provincia: ___________________________
 - Código Postal: ___________________________
-###Superficie del Terreno:
+### Superficie del Terreno:
 - Área en metros cuadrados: ___________________________
-###Uso Propuesto del Terreno:
+### Uso Propuesto del Terreno:
 - Residencial ☐
 - Comercial ☐
 - Industrial ☐
