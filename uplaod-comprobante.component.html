@@ -1,0 +1,14 @@
+<body>
+  <div class="container">
+    <h1 class="title">Subir Comprobante de Pago</h1>
+    <div class="upload-form">
+      <form [formGroup]="uploadForm" (ngSubmit)="uploadComprobante()">
+        <div class="form-group">
+                <label for="comprobante" class="form-label">Seleccionar Archivo:</label>
+                <input type="file" id="comprobante" formControlName="comprobante" class="form-control-file">
+            </div>
+            <button type="submit" class="btn btn-primary">Subir Comprobante</button>
+        </form>
+    </div>
+  </div>
+</body>
